@@ -1,7 +1,7 @@
 {
-  "name": "with-entry-point-react-scripts",
+  "name": "multiple-projects-react-scripts",
   "version": "3.0.1",
-  "description": "Configuration and scripts for Create React App which includes ENTRY_POINT env (see https://github.com/facebook/create-react-app/pull/5671).",
+  "description": "Configuration and scripts for Create React App which includes PROJECT_NAME env (see https://github.com/facebook/create-react-app/pull/5671).",
   "repository": {
     "type": "git",
     "url": "https://github.com/val-samonte/create-react-app.git",
